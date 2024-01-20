@@ -1,0 +1,6 @@
+1     | APPLE           | 3.00       | 80       | VIETNAM        
+2     | BANANA          | 3.00       | 60       | CHINA          
+3     | APPLE           | 3.00       | 80       | VIETNAM        
+4     | PINAPPLE        | 3.00       | 30       | KOREA          
+5     | SAKE            | 6.00       | 50       | JAPAN          
+6     | COCONUT         | 10.00      | 60       | AMERICA        
